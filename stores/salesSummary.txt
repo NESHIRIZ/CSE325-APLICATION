@@ -1,0 +1,8 @@
+Sales Summary
+----------------------------
+Total Sales: $3,771.40
+
+Details:
+ store101: $1,250.45
+ store102: $980.20
+ store103: $1,540.75

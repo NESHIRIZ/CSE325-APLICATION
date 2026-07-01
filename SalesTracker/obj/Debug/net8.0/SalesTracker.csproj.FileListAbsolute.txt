@@ -1,0 +1,14 @@
+C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\bin\Debug\net8.0\SalesTracker.exe
+C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\bin\Debug\net8.0\SalesTracker.deps.json
+C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\bin\Debug\net8.0\SalesTracker.runtimeconfig.json
+C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\bin\Debug\net8.0\SalesTracker.dll
+C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\bin\Debug\net8.0\SalesTracker.pdb
+C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\obj\Debug\net8.0\SalesTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\obj\Debug\net8.0\SalesTracker.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\obj\Debug\net8.0\SalesTracker.AssemblyInfo.cs
+C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\obj\Debug\net8.0\SalesTracker.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\obj\Debug\net8.0\SalesTracker.dll
+C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\obj\Debug\net8.0\refint\SalesTracker.dll
+C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\obj\Debug\net8.0\SalesTracker.pdb
+C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\obj\Debug\net8.0\SalesTracker.genruntimeconfig.cache
+C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\obj\Debug\net8.0\ref\SalesTracker.dll

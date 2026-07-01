@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PizzaApi/PizzaApi.csproj" />
+  <Project Path="SalesTracker/SalesTracker.csproj" />
+</Solution>

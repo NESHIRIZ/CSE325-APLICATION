@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UH8Wzq7ijiE=",
+  "dgSpecHash": "P0FyKfMs/lY=",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Downloads\\CSE325 APLICATION\\PizzaApi\\PizzaApi.csproj",
   "expectedPackageFiles": [
@@ -15,18 +15,5 @@
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "message": "PizzaApi depends on Swashbuckle.AspNetCore (>= 6.5.1) but Swashbuckle.AspNetCore 6.5.1 was not found. Swashbuckle.AspNetCore 6.6.1 was resolved instead.",
-      "projectPath": "C:\\Users\\Admin\\Downloads\\CSE325 APLICATION\\PizzaApi\\PizzaApi.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\Admin\\Downloads\\CSE325 APLICATION\\PizzaApi\\PizzaApi.csproj",
-      "libraryId": "Swashbuckle.AspNetCore",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

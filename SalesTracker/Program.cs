@@ -9,6 +9,7 @@ internal static class Program
     {
         var currentDirectory = Directory.GetCurrentDirectory();
         var storesDirectory = Path.Combine(currentDirectory, "stores");
+        var salesTotalDir = Path.Combine(currentDirectory, "salesTotalDir");
 
         if (!Directory.Exists(storesDirectory))
         {
@@ -33,8 +34,9 @@ internal static class Program
             File.WriteAllText(salesFile, value);
         }
 
-        var outputPath = Path.Combine(storesDirectory, "salesSummary.txt");
+        var outputPath = Path.Combine(salesTotalDir, "summaryReport.txt");
         var summary = GenerateSalesSummary(storesDirectory);
+        Directory.CreateDirectory(salesTotalDir);
         File.WriteAllText(outputPath, summary);
 
         Console.WriteLine(summary);
@@ -57,16 +59,17 @@ internal static class Program
             if (decimal.TryParse(rawValue, NumberStyles.Number, CultureInfo.InvariantCulture, out var salesAmount))
             {
                 totalSales += salesAmount;
-                builder.AppendLine($" {directoryName}: {salesAmount:C}");
+                var fileName = Path.GetFileName(salesFile);
+                builder.AppendLine($"  {fileName}: {salesAmount:C}");
             }
         }
 
         var report = new StringBuilder();
         report.AppendLine("Sales Summary");
         report.AppendLine("----------------------------");
-        report.AppendLine($"Total Sales: {totalSales:C}");
+        report.AppendLine($" Total Sales: {totalSales:C}");
         report.AppendLine();
-        report.AppendLine("Details:");
+        report.AppendLine(" Details:");
         report.Append(builder);
 
         return report.ToString();

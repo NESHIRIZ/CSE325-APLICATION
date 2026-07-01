@@ -12,3 +12,4 @@ C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\obj\Debug\net8.0\refint\
 C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\obj\Debug\net8.0\SalesTracker.pdb
 C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\obj\Debug\net8.0\SalesTracker.genruntimeconfig.cache
 C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\obj\Debug\net8.0\ref\SalesTracker.dll
+C:\Users\Admin\Downloads\CSE325 APLICATION\SalesTracker\obj\Debug\net8.0\SalesTracker.sourcelink.json

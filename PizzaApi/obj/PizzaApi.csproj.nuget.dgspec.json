@@ -48,7 +48,7 @@
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.5.1, )"
+              "version": "[6.6.1, )"
             }
           },
           "imports": [

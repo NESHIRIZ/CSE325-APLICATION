@@ -31,3 +31,4 @@ C:\Users\Admin\Downloads\CSE325 APLICATION\PizzaApi\obj\Debug\net8.0\refint\Pizz
 C:\Users\Admin\Downloads\CSE325 APLICATION\PizzaApi\obj\Debug\net8.0\PizzaApi.pdb
 C:\Users\Admin\Downloads\CSE325 APLICATION\PizzaApi\obj\Debug\net8.0\PizzaApi.genruntimeconfig.cache
 C:\Users\Admin\Downloads\CSE325 APLICATION\PizzaApi\obj\Debug\net8.0\ref\PizzaApi.dll
+C:\Users\Admin\Downloads\CSE325 APLICATION\PizzaApi\obj\Debug\net8.0\PizzaApi.sourcelink.json
